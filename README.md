@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ✏️ I’m currently learning `Platzi` 💚🚀 and `English`.
 - 🤓 Always `learning new things`.
 - ✨ I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- 📧 You can visit [Linkedin](https://cutt.ly/Ahmed_Hossam_Website).
+- 📧 You can visit [Linkedin](https://www.linkedin.com/in/cynthia-rodr%C3%ADguez-6b7a25189/).
 <br>
 
 ## 🛠️ Languages and Tools
