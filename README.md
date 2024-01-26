@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 💗 I love it `learning, debugger and developer`.
 - ✏️ I’m currently learning `Platzi` 💚🚀 and `English`.
 - 🤓 Always `learning new things`.
-- ✨ I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- ✨ I’m currently open for a new `job opportunity`, this is [MY RESUME](https://platzi.com/p/CynRodAd/).
 - 📧 You can visit [Linkedin](https://www.linkedin.com/in/cynthia-rodr%C3%ADguez-6b7a25189/).
 <br>
 
