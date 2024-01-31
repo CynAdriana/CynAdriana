@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br><br>
 
 - 👩‍💻 I am a `Junior Developer`.
-- 🎓 Graduated at `UPQ` 📚.
+- 🎓 Graduated at `UPQ` 🐦📚.
 - 💗 I love it `learn new things,travel and hiking`✏️🌎🧗.
 - ✏️ I’m currently learning at [Platzi](https://platzi.com/p/CynRodAd/) 💚🚀 and `English`.
 - 🤓 Always `openness to learning`.
