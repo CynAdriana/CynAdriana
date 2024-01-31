@@ -12,21 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi , I'm Cynthia Rodriguez 👩‍💻🌼 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<!---<h1 align="center">Hi , I'm Cynthia Rodriguez 👩‍💻🌼 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>--->
 
 
 <p align="center">
   <img src="https://i.imgur.com/Vwlc2lg.gif" width="50%" />
+	<h1>About me 👩‍💻🌼<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </p>
 <br><br>
 
 - 👩‍💻 I am a `Junior Developer`.
 - 🎓 Graduated at `UPQ` 📚.
-- 💗 I love it `learning, debugger and developer`.
-- ✏️ I’m currently learning `Platzi` 💚🚀 and `English`.
-- 🤓 Always `learning new things`.
+- 💗 I love it `learn new things,travel and hiking`✏️🌎🧗.
+- ✏️ I’m currently learning at [Platzi](https://platzi.com/p/CynRodAd/) 💚🚀 and `English`.
+- 🤓 Always `openness to learning`.
 - ✨ I’m currently open for a new `job opportunity`, this is [MY RESUME](https://platzi.com/p/CynRodAd/).
 - 📧 You can visit [Linkedin](https://www.linkedin.com/in/cynthia-rodr%C3%ADguez-6b7a25189/).
 <br>
