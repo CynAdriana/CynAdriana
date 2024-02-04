@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 💗 I love it `learn new things,travel and hiking`✏️🌎🧗.
 - ✏️ I’m currently learning at [Platzi](https://platzi.com/p/CynRodAd/) 💚🚀 and `English`.
 - 🤓 Always `openness to learning`.
-- ✨ I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.notion.so/Cynthia-Adriana-Rodr-guez-Mart-nez-0a66f7bdb9894efc8abce3fcffcf4efc?pvs=4).
+- ✨ I’m currently open for a new `job opportunity`, this is [MY RESUME](https://royal-kookaburra-cfc.notion.site/Cynthia-Adriana-Rodr-guez-Mart-nez-0a66f7bdb9894efc8abce3fcffcf4efc?pvs=4).
 - 📧 You can visit [Linkedin](https://www.linkedin.com/in/cynthia-rodr%C3%ADguez-6b7a25189/).
 <br>
 
