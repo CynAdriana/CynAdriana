@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👩‍💻 I am a `Junior Developer`.
 - 🎓 Graduated at `UPQ` 🐦📚.
-- 💗 I love it `learn new things,travel and hiking`✏️🌎🧗.
+- 💗 I love it `learn new things,travel and go hiking`✏️🌎🧗.
 - ✏️ I’m currently learning at [Platzi](https://platzi.com/p/CynRodAd/) 💚🚀 and `English`.
 - 🤓 Always `openness to learning`.
 - ✨ I’m currently open for a new `job opportunity`, this is [MY RESUME](https://royal-kookaburra-cfc.notion.site/Cynthia-Adriana-Rodr-guez-Mart-nez-0a66f7bdb9894efc8abce3fcffcf4efc?pvs=4).
