@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://i.imgur.com/Vwlc2lg.gif" width="50%" />
 	<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">About me</h2>
 </p>
-<p>I am a <b>developer Jr</b>, looking to grow professionally in the field of technology. I like <b>innovation</b>, <b>debugging</b>, <b>challenges and learning new things.</b></p>
+<p>I am a <b>developer Full Stack</b>, looking to grow professionally in the field of technology. I like <b>innovation</b>, <b>debugging</b>, <b>challenges and learning new things.</b></p>
 <br><br>
 
 - 👩‍💻 I am a `Developer Full Stack`.
