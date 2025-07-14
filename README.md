@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p>I am a <b>developer Jr</b>, looking to grow professionally in the field of technology. I like <b>innovation</b>, <b>debugging</b>, <b>challenges and learning new things.</b></p>
 <br><br>
 
-- 👩‍💻 I am a `Junior Developer`.
+- 👩‍💻 I am a `Developer Full Stack`.
 - 🎓 Graduated at `UPQ` 🐦📚.
 - 💗 I love it `learn new things,travel and go hiking`✏️🌎🧗.
 - ✏️ I’m currently learning at [Platzi](https://platzi.com/p/CynRodAd/) 💚🚀 and `English`.
